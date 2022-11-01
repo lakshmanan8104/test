@@ -40,7 +40,7 @@ else{
     <head>
         
         <!-- Title -->
-        <title>ELMS | Home Page</title>
+        <title>ELMS | Home Page123</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
         <meta charset="UTF-8">
