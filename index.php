@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
+=======
+jcdbfhfbdsnfndsvndsn
+fgdbdnmdwmdcmd
+>>>>>>> 605d3ed7a6cc6bfa79f4659451f357ac8bb91cf9
 <?php
 session_start();
 error_reporting(0);
